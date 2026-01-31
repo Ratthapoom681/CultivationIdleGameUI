@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "QjqJURbZryQ=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Victus 15\\Desktop\\Game Development\\CultivationIdleGameUI\\CultivationIdleGameUI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Victus 15\\.nuget\\packages\\microsoft.net.illink.tasks\\10.0.1\\microsoft.net.illink.tasks.10.0.1.nupkg.sha512",
+    "C:\\Users\\Victus 15\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\10.0.1\\microsoft.netcore.app.runtime.win-x64.10.0.1.nupkg.sha512",
+    "C:\\Users\\Victus 15\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\10.0.1\\microsoft.windowsdesktop.app.runtime.win-x64.10.0.1.nupkg.sha512",
+    "C:\\Users\\Victus 15\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\10.0.1\\microsoft.aspnetcore.app.runtime.win-x64.10.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
