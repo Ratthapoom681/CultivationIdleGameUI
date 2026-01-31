@@ -155,9 +155,9 @@ Contributions are welcome! Please feel free to submit a Pull Request. For major 
 
 ## 📞 Contact
 
-Developed by: [Your Name]
-- GitHub: [Your GitHub Profile]
-- Email: [Your Email]
+Developed by: Ratthapoom681
+- GitHub: github.com/Ratthapoom681
+- Email: ratthapoom681@gmail.com
 
 ---
 
